@@ -1,1 +1,2 @@
-print("kakako")
+print("kakao")
+print("naver")
